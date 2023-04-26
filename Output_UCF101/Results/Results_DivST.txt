@@ -1,0 +1,5 @@
+[11/19 14:20:14][INFO] logging.py:  95: json_stats: {"split": "test_final", "top1_acc": "83.93", "top5_acc": "84.66"}
+[11/19 18:08:52][INFO] logging.py:  95: json_stats: {"split": "test_final", "top1_acc": "83.77", "top5_acc": "84.71"}
+[11/19 21:57:14][INFO] logging.py:  95: json_stats: {"split": "test_final", "top1_acc": "84.09", "top5_acc": "84.66"}
+[11/20 01:45:23][INFO] logging.py:  95: json_stats: {"split": "test_final", "top1_acc": "84.14", "top5_acc": "84.71"}
+[11/20 05:33:28][INFO] logging.py:  95: json_stats: {"split": "test_final", "top1_acc": "84.45", "top5_acc": "84.71"}

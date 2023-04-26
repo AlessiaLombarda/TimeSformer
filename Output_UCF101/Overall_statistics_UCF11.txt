@@ -1,0 +1,17 @@
+DivST
+Top1_mean: 90.61
+Top5_mean: 91.08
+Top1_std: 0.33234018715767655
+Top5_std: 0.0
+
+SpaceOnly
+Top1_mean: 90.328
+Top5_mean: 91.08
+Top1_std: 0.9746127436064005
+Top5_std: 0.0
+
+JointST
+Top1_mean: 89.482
+Top5_mean: 91.08
+Top1_std: 1.3942453155739867
+Top5_std: 0.0
